@@ -1,0 +1,81 @@
+input[type="text"], input[type="email"], input[type="tel"], select, textarea {
+    border: 1px solid #ccc;
+    font-size: 16px;
+    width: 99%;
+    padding: 0 15px;
+	color: #000 !important;
+}
+
+form label {
+    margin-top: 20px;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.wpcf7-form-control-wrap {
+    text-align: left;
+}
+
+.wpcf7-not-valid-tip {
+    font-size: 14px;
+}
+
+.wpcf7-list-item {
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 20px;
+}   
+
+.wpcf7-list-item-label::before, .wpcf7-list-item-label::after {
+    content: " ";
+    width: 10px;
+    display: inline-block;
+}
+
+form textarea {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+form input[type="submit"] {
+    background-image: none !important;
+    filter: invert(0);
+    height: 50px;
+    line-height: 50px;
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+    text-transform: capitalize;
+    width: 200px;
+    transition: filter 600ms;
+}
+
+form input[type="submit"]:hover {
+    filter: invert(1);
+}
+
+form {
+    margin-top: 20px;
+}
+
+
+@media only screen and (max-width: 991px) {
+
+    .wpcf7-form {
+        overflow: visible;
+    }
+
+    form label {
+        margin-top: 0px;
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    form input[type="submit"] {
+        height: 60px;
+        line-height: 60px;
+        font-size: 14px;
+        width: 100%;
+    }
+
+}

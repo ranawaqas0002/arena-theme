@@ -1,0 +1,118 @@
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('NeueHaasUnicaPro-LightIt.woff2') format('woff2'),
+        url('NeueHaasUnicaPro-LightIt.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('NeueHaasUnicaPro-Medium.woff2') format('woff2'),
+        url('NeueHaasUnicaPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('NeueHaasUnicaPro-Regular.woff2') format('woff2'),
+        url('NeueHaasUnicaPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('NeueHaasUnicaPro-Thin.woff2') format('woff2'),
+        url('NeueHaasUnicaPro-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('NeueHaasUnicaPro-Bold.woff2') format('woff2'),
+        url('NeueHaasUnicaPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('NeueHaasUnicaPro-Light.woff2') format('woff2'),
+        url('NeueHaasUnicaPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist.woff2') format('woff2'),
+        url('Geomanist.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-Medium.woff2') format('woff2'),
+        url('Geomanist-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN';
+    src: url('DIN-Regular.woff2') format('woff2'),
+        url('DIN-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves';
+    src: url('TTHoves-Regular.woff2') format('woff2'),
+        url('TTHoves-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves';
+    src: url('TTHoves-Regular.woff2') format('woff2'),
+        url('TTHoves-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves';
+    src: url('TTHoves-Light.woff2') format('woff2'),
+        url('TTHoves-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves';
+    src: url('TTHoves-Light.woff2') format('woff2'),
+        url('TTHoves-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
